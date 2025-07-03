@@ -11,12 +11,16 @@ header{
   padding: 20px;
   text-align: center;
 }
-section{
+section {
   padding: 20px;
-  margin: 10px;
   background-color: white;
-  border-radius: 10px;
+  color: black; 
 }
+
+section h2, section p, section ul, section li {
+  color: black; 
+}
+
 footer{
   background-color:#eee;
   text-align:center;
